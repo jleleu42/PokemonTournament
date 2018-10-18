@@ -8,10 +8,6 @@ La version 3, l’utilisateur choisi en console le nom du tournoi, le nombre de 
 
 
 Ce que l’on pourrait ajouter dans une V4 :
-  -	Des bonus aléatoires permettant :
-    o	De gagner des pourcentages de vie
-    o	De gagner des coups plus puissants
+  -	Des bonus aléatoires permettant de gagner des pourcentages de vie / de gagner des coups plus puissants
   -	Améliorer la saisie des combattants pour la rendre moins fastidieuse
   -	Ajouter des couleurs dans la console pour rendre le rendu plus lisible
-
-.
