@@ -12,4 +12,4 @@ Ce que l’on pourrait ajouter dans une V4 :
   -	Améliorer la saisie des combattants pour la rendre moins fastidieuse
   -	Ajouter des couleurs dans la console pour rendre le rendu plus lisible
 
-=TEST=
+=TE
